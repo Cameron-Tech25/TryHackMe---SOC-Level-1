@@ -1,0 +1,1 @@
+This TryHackMe path is all about Level 1 SOC analysts and this depositary provies write ups on the labs I have completed to continue learning and gain hands on experience to progess into a SOC analyst role 
